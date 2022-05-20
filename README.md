@@ -1,4 +1,4 @@
-# Hi there 👋
+# 👋 Hi there
 
 * 🧑 Maksim Litvinov
 * 🚀 `.go` `.ipynb` `.py` `.coffee` (`.lan` - soon!™)
@@ -6,7 +6,7 @@
 * ❤️ language design | app design | voxels | rendering
 * 💬 [Twitter](https://twitter.com/metalim) | [Web](https://mem.ee/) | [Linkedin](https://www.linkedin.com/in/metalim/) | [Github](https://github.com/metalim) 👈 you are here
 
-## [Advent of Code](https://adventofcode.com/) solutions
+## :gun: [Advent of Code](https://adventofcode.com/) solutions
 
 | AoC  | [CoffeeScript](https://coffeescript.org/) | [Go](https://golang.org/) | [Python](https://www.python.org/) / [Jupyter](https://jupyter.org/) | Läng |
 |------|-|-|-|-|
