@@ -17,3 +17,11 @@
 | 2019 | | | [Dec 2019](https://github.com/metalim/metalim.adventofcode.2019.python) ❤️ pretty
 | 2020 | | | [Dec 2020](https://github.com/metalim/metalim.adventofcode.2020.lang) | [Dec 2020](https://github.com/metalim/metalim.adventofcode.2020.lang) ✌😎 |
 | 2021 | | [Dec 2021](https://github.com/metalim/metalim.adventofcode.2021.go)
+
+## :art: Languages used
+
+![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=metalim&theme=graywhite)
+
+## :pencil: GitHub stats
+
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=metalim&show_icons=true&hide_border=true&theme=vue&count_private=true" alt="metalim's GitHub Stats" />
