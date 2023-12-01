@@ -18,6 +18,7 @@
 | 2020 | | | [Dec 2020](https://github.com/metalim/adventofcode.2020.lang) | [Dec 2020](https://github.com/metalim/adventofcode.2020.lang) ✌😎 |
 | 2021 | | [Dec 2021](https://github.com/metalim/adventofcode.2021.go)
 | 2022 | | [Dec 2022](https://github.com/metalim/adventofcode.2022.go)
+| 2023 | | [Dec 2023](https://github.com/metalim/adventofcode.2023.go)
 
 ## :art: Languages used
 
