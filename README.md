@@ -1,7 +1,7 @@
 # 👋 Hi there
 
 * 🧑 Maksim Litvinov
-* 🚀 `.go` `.ipynb` `.py` `.coffee` (`.lan` - soon!™)
+* 🚀 `.go` `.ipynb` `.py` `.coffee` (`.lan` — soon!™)
 * 💥 `.php` `.cpp` `.c` `.html` `.js`
 * ❤️ language design | app design | voxels | rendering
 * 💬 [Twitter](https://twitter.com/metalim) | [Toptal](https://mem.ee/) | [Linkedin](https://www.linkedin.com/in/metalim/) | [Github](https://github.com/metalim) 👈 you are here
