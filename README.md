@@ -11,7 +11,7 @@
 | AoC  | [CoffeeScript](https://coffeescript.org/) | [Go](https://golang.org/) | [Python](https://www.python.org/) / [Jupyter](https://jupyter.org/) | Läng |
 |------|-|-|-|-|
 | 2015 | [Dec 2017](https://github.com/metalim/adventofcode.2015.coffee) ⭐️50
-| 2016 | [Dec 2017](https://github.com/metalim/adventofcode.2016.coffee) ⭐️50 | [Jan 2019](https://github.com/metalim/adventofcode.2016.go)
+| 2016 | [Dec 2017](https://github.com/metalim/adventofcode.2016.coffee) ⭐️50 | [Jan 2019](https://github.com/metalim/adventofcode.2016.go) ⭐️16
 | 2017 | [Dec 2017](https://github.com/metalim/adventofcode.2017.coffee) ⭐️50 👈 my first AoC | [Dec 2018](https://github.com/metalim/adventofcode.2017.go) ⭐️50
 | 2018 | | [Dec 2018](https://github.com/metalim/adventofcode.2018.go) ⭐️50
 | 2019 | | | [Dec 2019](https://github.com/metalim/adventofcode.2019.python) ⭐️48 ❤️ pretty
