@@ -20,6 +20,7 @@
 | 2022 | | [Dec 2022](https://github.com/metalim/adventofcode.2022.go) ⭐️31
 | 2023 | | [Dec 2023](https://github.com/metalim/adventofcode.2023.go) ⭐️39
 | 2024 | | [Dec 2024](https://github.com/metalim/adventofcode.2024.go) ⭐️50
+| 2025 | | [Dec 2024](https://github.com/metalim/adventofcode.2025.go) ⭐️...
 
 ## :art: Languages used
 
