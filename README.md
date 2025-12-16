@@ -4,7 +4,7 @@
 * 🚀 `.go` `.ipynb` `.py` `.coffee` (`.lan` — soon!™)
 * 💥 `.php` `.cpp` `.c` `.html` `.js`
 * ❤️ language design | app design | voxels | rendering
-* 💬 [~~Twitter~~ X](https://twitter.com/metalim) | [Toptal](https://mem.ee/) | [Linkedin](https://www.linkedin.com/in/metalim/) | [Github](https://github.com/metalim) 👈 you are here
+* 💬 [~~Twitter~~ X](https://x.com/metalim) | [Toptal](https://mem.ee/) | [Linkedin](https://www.linkedin.com/in/metalim/) | [Github](https://github.com/metalim) 👈 you are here
 
 ## :gun: [Advent of Code](https://adventofcode.com/) solutions
 
